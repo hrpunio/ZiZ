@@ -1,0 +1,194 @@
+<!doctype html>
+<!--[if lt IE 7]>  <html lang="pl" class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>     <html lang="pl" class="no-js ie ie7 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>     <html lang="pl" class="no-js ie ie8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>     <html lang="pl" class="no-js ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="pl" class="no-js"> <!--<![endif]-->
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <title> CyberTarcza Orange </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/a/static/favicon.ico"/>
+    <link rel="apple-touch-icon" type="image/png" href="/a/static/apple-touch-icon-precomposed.png">
+    <link rel="stylesheet" href="/a/static/css/style.css?v=01">
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="/a/static/js/ie8plugins.js?v=01"></script>
+    <![endif]-->
+    <script src="/a/static/js/svg-inject.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header class="page-head">
+    <h1 class="page-logo">
+        <a href="http://www.orange.pl/">
+            <img src="/a/static/images/frontend/orange.png"
+                 width="62" height="62" alt="Orange" />
+        </a>
+    </h1>
+    <span>CyberTarcza Orange <strong>Orange Polska</strong></span>
+</header>
+
+        
+    <section class="page-main" role="main">
+        
+            <div class="ssl-warning ssl-warning-main">
+                Właśnie zaakceptowałeś/aś certyfikat strony mimo komunikatu o jego niepoprawności.
+            </div>
+            <h3 class="ssl-warning">
+                Wierzymy, że zrobiłeś to, bo ufasz CyberTarczy, tym niemniej <u>stanowczo zalecamy</u> czytanie takich
+                komunikatów i <u>nieodwiedzanie stron z&nbsp;nieprawidłowymi certyfikatami</u>
+                (niezaufany wystawca, niezgodna nazwa, przekroczony okres ważności, unieważniony certyfikat, niezalecany
+                algorytm szyfrowania, itp).
+                My robimy to wyłącznie po to, by móc zaprezentować Ci informację o&nbsp;zagrożeniu na szyfrowanej
+                stronie –
+                przestępcy mogą podstawić Ci fałszywą stronę banku.</h3>
+        
+        <header class="banner-type2">
+            <h2>
+                Uwaga, zagrożenie
+            </h2>
+            <div>
+                <p><strong>CyberTarcza Orange</strong>&nbsp;powstrzymała próbę phishingu!</p>
+
+<p>Widzisz tę stronę, ponieważ prawdopodobnie kliknąłeś/aś w podejrzany link w mailu lub na stronie internetowej. Strona, na którą próbujesz wejść, to potwierdzona witryna <strong style="color: red">phishingowa</strong>, próbująca wyłudzić od Ciebie dane logowania (login i hasło), udając stronę znanego serwisu/marki. Próba wejścia na fałszywą stronę <strong>została zablokowana przez CyberTarczę</strong>. Właściwy adres strony znajdziesz poniżej.</p>
+
+<p><strong>Powiązany serwis:</strong> Orange<br />
+<strong>Zły adres:</strong> <s style="color: red"><code>http://ia600401.us.archive.org</code></s><br />
+<strong>Prawidłowy adres:</strong> <code style="color: green">https://orange.pl</code><br />
+(adres nie jest klikalny – zaznacz go kursorem, skopiuj i wklej do przeglądarki)</p>
+            </div>
+
+            <ul class="link-list">
+                <li>
+                    <a href="/a/antiphishing_info/" class="btn">
+                        <span>Jak nie zostać ofiarą phishingu?</span>
+                        <span class="link-icon"><i class="icon-chevron-right"></i></span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://cert.orange.pl/" class="btn secondary">
+                        <span>Jak unikać zagrożeń w sieci?</span>
+                        <span class="link-icon"><i class="icon-external-link"></i></span>
+                    </a>
+                </li>
+            </ul>
+        </header>
+
+        <section class="how-to-avoid">
+    <header class="section-header">
+        <h2>Jak uniknąć zagrożenia?</h2>
+        <div>
+            By upewnić się, że niniejsza informacja pochodzi od Orange Polska, sprawdź certyfikat
+            strony. W tym celu kliknij symbol z lewej strony paska adresu, a następnie informację o
+            bezpieczeństwie (konkretna treść może się różnić w zależności od przeglądarki),
+            by potwierdzić, że certyfikat został wystawiony dla Orange Polska S.A.
+        </div>
+    </header>
+    <div class="content">
+        <article class="browser chrome">
+            <header>
+                <h2>Chrome</h2>
+            </header>
+            <div>
+                <img src="/a/static/images/frontend/screenshoot-chrome.jpg" alt="Chrome screenshoot"
+                     height="200" width="219">
+            </div>
+        </article>
+        <article class="browser firefox">
+            <header>
+                <h2>Firefox</h2>
+            </header>
+            <div>
+                <img src="/a/static/images/frontend/screenshoot-firefox.jpg" alt="Firefox screenshoot"
+                     height="200" width="219">
+            </div>
+        </article>
+        <article class="browser ie">
+            <header>
+                <h2><span>Internet Explorer</span> <span>IE</span></h2>
+                <div>
+                    <img src="/a/static/images/frontend/screenshoot-edge.jpg" alt="IE screenshoot" height="200"
+                         width="219">
+                </div>
+            </header>
+            <div>
+
+            </div>
+        </article>
+    </div>
+</section>
+    </section>
+
+
+        <footer class="page-footer">
+    <div class="copyright">
+        (c) 2015<span id="currentYear"></span> <strong>Copyright Orange Polska S.A.</strong><br>
+        Kontakt z CERT OPL: <a href="mailto:cert.opl@orange.com">cert.opl@orange.com</a>
+    </div>
+    <div class="logos">
+        <span>
+            <img src="/a/static/images/frontend/ti.png"
+                 width="51" height="50" alt="TI" class="color"/>
+        </span>
+        <span>
+            <img src="/a/static/images/frontend/first.png"
+                 width="111" height="50" alt="FIRST" class="color"/>
+        </span>
+    </div>
+</footer>
+
+<script>
+    var d = new Date();
+    document.getElementById('currentYear').innerText = ' - ' + d.getFullYear().toString();
+</script>
+    </div>
+
+    
+
+    <script src="/a/static/js/jquery-1.11.2.min.js?v=1.11.2"></script>
+    <script src="/a/static/js/progressbar.min.js?v=01"></script>
+    <script src="/a/static/js/captive.js?v=01"></script>
+    <script src="/a/static/js/scripts.js?v=01"></script>
+
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2NT1L6NVNQ"></script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2NT1L6NVNQ');
+</script>
+    <!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function () {
+    var u = "//cert.orange.pl/matomo/";
+    _paq.push(['setTrackerUrl', u + 'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+    g.type = 'text/javascript';
+    g.async = true;
+    g.defer = true;
+    g.src = u + 'matomo.js';
+    s.parentNode.insertBefore(g, s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<!-- Matomo Image Tracker-->
+<noscript>
+    <img src="https://cert.orange.pl/matomo/matomo.php?idsite=2&amp;rec=1" style="border:0" alt=""/>
+</noscript>
+<!-- End Matomo -->
+
+</body>
+</html>
